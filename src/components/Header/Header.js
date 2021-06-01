@@ -32,8 +32,8 @@ const Header = () => {
             <hr></hr>
             <div className="email-phone">
                 <span className="email">info@boxfish.studio</span>
-                <svg height="5" width="5" className="red">
-                    <circle cx="2.5" cy="2.5" r="2.5" fill="#FF5C5C" />
+                <svg height="6" width="6" className="red">
+                    <circle cx="3" cy="3" r="3" fill="#FF5C5C" />
                 </svg>
                 <span className="phone">+34 910615212</span>
             </div>
