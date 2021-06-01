@@ -1,8 +1,8 @@
 import Header from './Header/Header'
 import Hero from './Hero/Hero'
 import { useState } from 'react'
-import moon from './assets/moon.png'
-import sun from './assets/sun.png'
+import moon from '../assets/moon.png'
+import sun from '../assets/sun.png'
 import './App.css'
 
 

@@ -1,11 +1,11 @@
 import { Container, Row, Col } from 'react-bootstrap'
-import bike from './../assets/hero.png'
-import apple from './../assets/apple.png'
-import fazua from './../assets/fazua.png'
-import linkedin from './../assets/linkedin.png'
-import twitter from './../assets/twitter.png'
-import vans from './../assets/vans.png'
-import yk from './../assets/yk.png'
+import bike from '../../assets/hero.png'
+import apple from '../../assets/apple.png'
+import fazua from '../../assets/fazua.png'
+import linkedin from '../../assets/linkedin.png'
+import twitter from '../../assets/twitter.png'
+import vans from '../../assets/vans.png'
+import yk from '../../assets/yk.png'
 import './Hero.css'
 
 const Hero = () => {
