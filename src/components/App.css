@@ -1,0 +1,33 @@
+body {
+  font-family: 'Inter', sans-serif;
+  height: 100vh;
+}
+.dark-theme {
+  background-color: #333333;
+  color: #f8f8f8;
+  height: 100vh;
+}
+.dark-theme .navigation{
+  background-color: #333333;
+}
+.dark-theme p{
+color: #f8f8f8;
+}
+.dark-theme .text-logo{
+  color: #f8f8f8;
+}
+.dark-theme .customers{
+ filter:invert(1)
+}
+.light-theme {
+  background-color: #fff;
+}
+.switch{
+  border: 0px solid transparent;
+  width: 5rem;
+  background-color: transparent;
+  margin-bottom: 5rem;
+}
+.switch img{
+  width:2rem;
+}

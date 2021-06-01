@@ -1,0 +1,51 @@
+.logo{
+    display: flex;
+    align-items: center;
+    margin-left:2rem;
+     margin-top: 1rem;
+}
+.text-logo{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    margin-left: 1rem;
+    color: #333333; 
+}
+.icon{
+    font-weight: bolder;
+}
+.email-phone{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.red{
+     margin-left: 2rem;
+}
+.email{
+    color: #4081FF;
+    font-size: 12px;
+}
+.phone{
+   color: #4081FF;
+    font-size: 12px;
+    margin-left: 2rem;
+}
+.menu{
+    display: flex;
+}
+.menu a{
+    text-decoration: none;
+    color: #4081FF;
+    margin:0 1rem;
+    font-weight: 500;
+    font-size: 14px;
+}
+.toggle{
+    margin-right: 1.5rem;
+    border:0px;
+}
+.toggle span{
+   font-size: 14px;
+    color: #4081FF;
+}
