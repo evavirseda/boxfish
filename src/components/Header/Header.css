@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     margin-left:2rem;
-     margin-top: 1rem;
+   
 }
 .text-logo{
     font-style: normal;
@@ -14,13 +14,13 @@
 .icon{
     font-weight: bolder;
 }
+.red{
+    margin:0 1.4rem;
+}
 .email-phone{
     display:flex;
     justify-content:center;
     align-items: center;
-}
-.red{
-     margin-left: 2rem;
 }
 .email{
     color: #4081FF;
@@ -30,9 +30,6 @@
    color: #4081FF;
     font-size: 12px;
     margin-left: 2rem;
-}
-.menu{
-    display: flex;
 }
 .menu a{
     text-decoration: none;

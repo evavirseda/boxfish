@@ -25,16 +25,17 @@ const Header = () => {
                             <a href="/" className="about">About us</a>
                             <a href="/" className="career">Career</a>
                             <a href="/" className="work">Work</a>
-                            <a href="/" className="contact">Contacts</a>
                         </div>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
             <hr></hr>
             <div className="email-phone">
-                <p className="email">info@boxfish.studio</p>
-                <p className="red"></p>
-                <p className="phone">+34 910615212</p>
+                <span className="email">info@boxfish.studio</span>
+                <svg height="5" width="5" className="red">
+                    <circle cx="2.5" cy="2.5" r="2.5" fill="#FF5C5C" />
+                </svg>
+                <span className="phone">+34 910615212</span>
             </div>
             <hr></hr>
         </section>
